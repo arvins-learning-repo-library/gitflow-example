@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a repository for demonstrating Gitflow branching model using Gitflow Extension.
 
 Complete Blog post can be checked here https://blog.axosoft.com/gitflow/ This repository is a sample project used in this blog post.
